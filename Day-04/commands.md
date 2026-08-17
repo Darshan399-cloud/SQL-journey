@@ -15,6 +15,9 @@ FROM employees;
 SELECT id, name, salary
 FROM employees;
 
+SELECT id, name, salary
+FROM employees;
+
 ## Select Distinct Values
 
 SELECT DISTINCT department
